@@ -8,7 +8,7 @@
 
 For this Assignment, we've assumed roles as financial advisors at one of the top five financial advisory firms in the world. Our firm constantly competes with the other major firms to manage and automatically trade assets in a highly dynamic environment. In recent years, the firm has heavily profited by using computer algorithms that can buy and sell faster than human traders.
 
-The speed of these transactions ha given our firm a competitive advantage early on. But, humans still need to specifically program these systems, which limits thesystms' ability to adapt to new data. Therefore our team is planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. To do so, we have enhanced the existing trading signals with machine learning algorithms that can adapt to new data.
+The speed of these transactions has given our firm a competitive advantage early on. But, humans still need to specifically program these systems, which limits the systems' ability to adapt to new data. Therefore, our team is planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. To do so, we have enhanced the existing trading signals with machine learning algorithms that can adapt to new data.
 
 
 ---
