@@ -22,7 +22,7 @@ Use the starter code file to complete the steps that the instructions outline. T
 
 * [Establish a Baseline Performance](https://github.com/sfkonrad/M14_Challenge_Submission#establish-a-baseline-performance)
 
-* [Tune the Baseline Trading Algorithm]()
+* [Tune the Baseline Trading Algorithm](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#tune-the-baseline-trading-algorithm)
 
 * [Evaluate a New Machine Learning Classifier]()
 
