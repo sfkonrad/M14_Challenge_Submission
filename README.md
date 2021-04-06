@@ -26,7 +26,7 @@ Use the starter code file to complete the steps that the instructions outline. T
 
 * [Evaluate a New Machine Learning Classifier]()
 
-* [Create an Evaluation Report]()
+* [Create an Evaluation Report](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#create-an-evaluation-report)
 
 #### Establish a Baseline Performance
 
