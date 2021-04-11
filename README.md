@@ -1,4 +1,4 @@
-# [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14v0.2_Challenge_KonradK_machine_learning_trading_bot.ipynb)
+# [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14v0.3_Challenge_KonradK_machine_learning_trading_bot.ipynb)
 
 ##### Konrad Kozicki
 ### UCB-VIRT-FIN-PT-12-2020-U-B-TTH
