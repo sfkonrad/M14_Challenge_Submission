@@ -10,7 +10,7 @@ For this Assignment, we've assumed roles as financial advisors at one of the top
 
 The speed of these transactions has given our firm a competitive advantage early on. But, humans still need to specifically program these systems, which limits the systems' ability to adapt to new data. Therefore, our team is planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. To do so, we have enhanced the existing trading signals with machine learning algorithms that can adapt to new data.
 
-
+![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/C14S3P6_Actual_v_All_Strategy_Returns.png?raw=true)
 ---
 ---
 ---
