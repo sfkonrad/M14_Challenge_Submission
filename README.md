@@ -54,6 +54,11 @@ Open the Jupyter notebook. Restart the kernel, run the provided cells that corre
 
 8. Write your conclusions about the performance of the baseline trading algorithm in the `README.md` file that’s associated with your GitHub repository. Support your findings by using the PNG image that you saved in the previous step.
 
+---
+---
+---
+---
+
 # Tune the Baseline Trading Algorithm
 
 In this section, you’ll tune, or adjust, the model’s input features to find the parameters that result in the best trading outcomes. (You’ll choose the best by comparing the cumulative products of the strategy returns.) To do so, complete the following steps:
