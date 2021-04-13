@@ -75,7 +75,7 @@ A Better One
 
 # Evaluate a New Machine Learning Classifier
 
-In this section, you’ll use the original parameters that the starter code provided. But, you’ll apply them to the performance of a second machine learning model. To do so, complete the following steps:
+In this section, we used the original parameters that the starter code provided. However, we applied them to the performance of a second machine learning model. To do so, we completed the following steps:
 
 1. Import a new classifier, such as `AdaBoost`, `DecisionTreeClassifier`, or `LogisticRegression`. (For the full list of classifiers, refer to the [Supervised learning page](https://scikit-learn.org/stable/supervised_learning.html) in the scikit-learn documentation.)
 
@@ -89,7 +89,7 @@ In this section, you’ll use the original parameters that the starter code prov
 
 # Evaluation Report
 
-In the previous sections, you updated your `README.md` file with your conclusions. To accomplish this section, you need to add a summary evaluation report at the end of the `README.md` file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
+In the previous sections, we updated your `README.md` file with your conclusions. To accomplish this section, we wee required to add a summary evaluation report at the end of the `README.md` file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
 
 ### Step 3: Backtest the models to evaluate their performance. 
 
@@ -124,13 +124,13 @@ algorithm?
 > "Actual Returns" `1.31`:1 RETURN
 >
 
-# THE LR MODEL OUTPERFORMED THE OTHER MODELS BY REACHING APPROX. 200% OF ACTUAL RETURNS IN Q4 OF 2020. FURTHER, IT'S THE ONLY MODEL THAT NEVER LOST VALUE DURING THE BACKTEST FOR 2020.
+# THE LR MODEL OUTPERFORMED THE OTHER MODELS BY REACHING APPROX. 200% OF ACTUAL RETURNS IN Q4 OF 2020. FURTHER, IT'S THE ONLY MODEL THAT DIDN'T LOSE VALUE DURING THE BACKTEST FOR 2020.
 >
 > ![image.png](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_Returns_2020.png?raw=true)
 
 
 ---
-#### [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
+### [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
 
 
 ![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_vs_Actual_Returns.png?raw=true)
@@ -146,11 +146,6 @@ algorithm?
 ![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_Returns_Final_Hour.png?raw=true)
 
 
----
 
 ---
----
-
-
----
-#### [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
+### [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
