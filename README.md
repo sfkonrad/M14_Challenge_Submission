@@ -128,7 +128,9 @@ algorithm?
 >
 > ![image.png](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_Returns_2020.png?raw=true)
 
-
+---
+---
+---
 ---
 ### [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
 
