@@ -49,7 +49,7 @@ Open the Jupyter notebook. Restart the kernel, run the provided cells that corre
 
 7. Create a cumulative return plot that shows the actual returns vs. the strategy returns. Save a PNG image of this plot. This will serve as a baseline against which to compare the effects of tuning the trading algorithm.
 
-![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_svm1_vs_Actual_Returns.png?raw=true)
+![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_SVM1_vs_Actual_Returns.png?raw=true)
 
 
 8. Write your conclusions about the performance of the baseline trading algorithm in the `README.md` file that’s associated with your GitHub repository. Support your findings by using the PNG image that you saved in the previous step.
@@ -67,7 +67,7 @@ In this section, you’ll tune, or adjust, the model’s input features to find 
 
 3. Choose the set of parameters that best improved the trading algorithm returns. Save a PNG image of the cumulative product of the actual returns vs. the strategy returns, and document your conclusion in your `README.md` file.
 
-![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_2svm_vs_Actual_Returns.png?raw=true)
+![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_2SVM_vs_Actual_Returns.png?raw=true)
 
 # Evaluate a New Machine Learning Classifier
 
