@@ -21,7 +21,7 @@ The speed of these transactions has given our firm a competitive advantage early
 
 We were provided a starter code file to complete the steps that their instructions outline. The steps for this Challenge are divided as follows:
 
-* [Establish a Baseline Performance](https://github.com/sfkonrad/M14_Challenge_Submission#establish-a-baseline-performance)
+* [Establish a Baseline Performance](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#establish-a-baseline-performance)
 
 * [Tune the Baseline Trading Algorithm](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#tune-the-baseline-trading-algorithm)
 
