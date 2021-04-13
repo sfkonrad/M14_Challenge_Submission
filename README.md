@@ -91,6 +91,47 @@ In this section, you’ll use the original parameters that the starter code prov
 
 In the previous sections, you updated your `README.md` file with your conclusions. To accomplish this section, you need to add a summary evaluation report at the end of the `README.md` file. For this report, express your final conclusions and analysis. Support your findings by using the PNG images that you created.
 
+### Step 3: Backtest the models to evaluate their performance. 
+
+Save a PNG image of the cumulative product of the actual returns vs. the strategy returns for this updated trading algorithm, and write your conclusions in your `README.md` file. 
+
+Answer the following questions: 
+Did this new model perform better or worse than the provided baseline model? 
+
+### ANSWER 
+# THE TUNED SVM MODEL PERFORMED BETTER THAN ACTUAL AND BASELINE RETURNS.
+> ![image.png](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_2SVM_vs_Actual_Returns.png?raw=true)
+> 
+> "Tuned SVM Returns" `1.62`:1 RETURN
+>
+> "SVM Returns" `1.52`:1 RETURN
+>
+> "Actual Returns" `1.31`:1 RETURN
+
+Did this new model perform better or worse than your tuned trading 
+algorithm?
+
+### ANSWER 
+# THE SELECTED LOGISTIC REGRESSION MODEL PERFORMED BEST IN OUR ANALYSIS.
+> ![image.png](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_Returns_Final_Hour.png?raw=true)
+>
+> "LR Returns" `1.64`:1 RETURN
+>
+> "Tuned SVM Returns" `1.62`:1 RETURN
+>
+> "SVM Returns" `1.52`:1 RETURN
+>
+> "Actual Returns" `1.31`:1 RETURN
+>
+> THE LR MODEL OUTPERFORMED THE OTHER MODELS BY REACHING APPROX. 200% OF ACTUAL RETURNS IN Q4 OF 2020. fURTHEER, IT'S THE ONLY MODEL THAT NEVER LOST VALUE DURING THE BACKTEST.
+>
+> ![image.png](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_Returns_2020.png?raw=true)
+
+
+---
+# [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
+
+
 ![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_vs_Actual_Returns.png?raw=true)
 
 ![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_Returns_Stable.png?raw=true)
@@ -108,44 +149,6 @@ In the previous sections, you updated your `README.md` file with your conclusion
 
 ---
 ---
----
----
-
-### Step 3: Backtest the models to evaluate their performance. 
-
-Save a PNG image of the cumulative product of the actual returns vs. the strategy returns for this updated trading algorithm, and write your conclusions in your `README.md` file. 
-
-Answer the following questions: 
-Did this new model perform better or worse than the provided baseline model? 
-
-### ANSWER 
-# THE TUNED SVM MODEL PERFORMED BETTER THAN ACTUAL AND BASELINE RETURNS.
-> ![image.png](attachment:7c78a9a3-eb51-4e45-9962-b457453c5eeb.png)
-> 
-> "Tuned SVM Returns" `1.62`:1 RETURN
->
-> "SVM Returns" `1.52`:1 RETURN
->
-> "Actual Returns" `1.31`:1 RETURN
-
-Did this new model perform better or worse than your tuned trading 
-algorithm?
-
-### ANSWER 
-# THE SELECTED LOGISTIC REGRESSION MODEL PERFORMED BEST IN OUR ANALYSIS.
-> ![image.png](attachment:ec88a9c0-c079-4d42-a25c-766ab2c6bb63.png)
->
-> "LR Returns" `1.64`:1 RETURN
->
-> "Tuned SVM Returns" `1.62`:1 RETURN
->
-> "SVM Returns" `1.52`:1 RETURN
->
-> "Actual Returns" `1.31`:1 RETURN
->
-> THE LR MODEL OUTPERFORMED THE OTHER MODELS BY REACHING APPROX. 200% OF ACTUAL RETURNS IN Q4 OF 2020. fURTHEER, IT'S THE ONLY MODEL THAT NEVER LOST VALUE DURING THE BACKTEST.
->
-> ![image.png](attachment:0b04833e-bf4a-4893-9419-2d860d4d6ab3.png)
 
 
 ---
