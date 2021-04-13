@@ -27,7 +27,7 @@ We were provided a starter code file to complete the steps that their instructio
 
 * [Evaluate a New Machine Learning Classifier](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#evaluate-a-new-machine-learning-classifier)
 
-* [Create an Evaluation Report](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#create-an-evaluation-report)
+* [Create an Evaluation Report](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#evaluation-report)
 
 # Establish a Baseline Performance
 
