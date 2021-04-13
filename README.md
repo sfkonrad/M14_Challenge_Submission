@@ -10,13 +10,6 @@ For this Assignment, we've assumed roles as financial advisors at one of the top
 
 The speed of these transactions has given our firm a competitive advantage early on. But, humans still need to specifically program these systems, which limits the systems' ability to adapt to new data. Therefore, our team is planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. To do so, we have enhanced the existing trading signals with machine learning algorithms that can adapt to new data.
 
-![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_vs_Actual_Returns.png?raw=true)
-
----
----
----
----
-
 ## Instructions:
 
 We were provided a starter code file to complete the steps that their instructions outline. The steps for this Challenge are divided as follows:
@@ -28,6 +21,14 @@ We were provided a starter code file to complete the steps that their instructio
 * [Evaluate a New Machine Learning Classifier](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#evaluate-a-new-machine-learning-classifier)
 
 * [Create an Evaluation Report](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#evaluation-report)
+
+
+![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_vs_Actual_Returns.png?raw=true)
+
+---
+---
+---
+---
 
 # Establish a Baseline Performance
 
@@ -53,6 +54,11 @@ Open the Jupyter notebook. Restart the kernel, run the provided cells that corre
 
 
 8. Write your conclusions about the performance of the baseline trading algorithm in the `README.md` file that’s associated with your GitHub repository. Support your findings by using the PNG image that you saved in the previous step.
+
+---
+---
+---
+---
 
 # Tune the Baseline Trading Algorithm
 
