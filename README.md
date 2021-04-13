@@ -29,7 +29,7 @@ We were provided a starter code file to complete the steps that their instructio
 
 * [Create an Evaluation Report](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/README.md#create-an-evaluation-report)
 
-#### Establish a Baseline Performance
+# Establish a Baseline Performance
 
 In this section, you’ll run the provided starter code to establish a baseline performance for the trading algorithm. To do so, complete the following steps.
 
