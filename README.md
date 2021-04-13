@@ -73,6 +73,11 @@ A Bad Tune 🎶
 A Better One
 > ![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_2SVM_vs_Actual_Returns.png?raw=true)
 
+---
+---
+---
+---
+
 # Evaluate a New Machine Learning Classifier
 
 In this section, we used the original parameters that the starter code provided. However, we applied them to the performance of a second machine learning model. To do so, we completed the following steps:
@@ -85,7 +90,10 @@ In this section, we used the original parameters that the starter code provided.
 
 ![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_LR_vs_Actual_Returns.png?raw=true)
 
-
+---
+---
+---
+---
 
 # Evaluation Report
 
@@ -122,7 +130,6 @@ algorithm?
 > "SVM Returns" `1.52`:1 RETURN
 >
 > "Actual Returns" `1.31`:1 RETURN
->
 
 # THE LR MODEL OUTPERFORMED THE OTHER MODELS BY REACHING APPROX. 200% OF ACTUAL RETURNS IN Q4 OF 2020. FURTHER, IT'S THE ONLY MODEL THAT DIDN'T LOSE VALUE DURING THE BACKTEST FOR 2020.
 >
