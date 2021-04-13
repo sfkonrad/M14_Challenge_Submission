@@ -123,13 +123,14 @@ algorithm?
 >
 > "Actual Returns" `1.31`:1 RETURN
 >
-> THE LR MODEL OUTPERFORMED THE OTHER MODELS BY REACHING APPROX. 200% OF ACTUAL RETURNS IN Q4 OF 2020. fURTHEER, IT'S THE ONLY MODEL THAT NEVER LOST VALUE DURING THE BACKTEST.
+
+# THE LR MODEL OUTPERFORMED THE OTHER MODELS BY REACHING APPROX. 200% OF ACTUAL RETURNS IN Q4 OF 2020. fURTHEER, IT'S THE ONLY MODEL THAT NEVER LOST VALUE DURING THE BACKTEST.
 >
 > ![image.png](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_Returns_2020.png?raw=true)
 
 
 ---
-# [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
+[Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
 
 
 ![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_ALL_vs_Actual_Returns.png?raw=true)
@@ -152,4 +153,4 @@ algorithm?
 
 
 ---
-# [Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
+[Module 14 Challenge Submission](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/M14_Challenge_KonradK_machine_learning_trading_bot.ipynb)
