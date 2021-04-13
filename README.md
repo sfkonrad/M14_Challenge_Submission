@@ -63,7 +63,8 @@ In this section, you’ll tune, or adjust, the model’s input features to find 
 
 > **Hint** To adjust the size of the training dataset, you can use a different `DateOffset` value&mdash;for example, six months. Be aware that changing the size of the training dataset also affects the size of the testing dataset.
 
-![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_SVM_Bad_Tune_Returns.png?raw=true)
+A Bad Tune 🎶
+> ![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_SVM_Bad_Tune_Returns.png?raw=true)
 
 2. Tune the trading algorithm by adjusting the SMA input features. Adjust one or both of the windows for the algorithm. Rerun the notebook with the updated parameters, and record the results in your `README.md` file. Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 
