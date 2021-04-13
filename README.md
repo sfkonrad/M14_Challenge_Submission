@@ -65,8 +65,7 @@ In this section, you’ll tune, or adjust, the model’s input features to find 
 
 
 1. Tune the training algorithm by adjusting the size of the training dataset. To do so, slice your data into different periods. Rerun the notebook with the updated parameters, and record the results in your `README.md` file. Answer the following question: What impact resulted from increasing or decreasing the training window?
-
-####  * `ANSWER:` RESULT VARIES. MOSTLY WORSENING OUTSIDE OF OR EXTENDING BEYOND A `SHORT_SMA` VALUE OF `3` AND A `LONG_SMA` VALUE OF `110`.
+> ####  * **ANSWER:** RESULT VARIES. MOSTLY WORSENING OUTSIDE OF OR EXTENDING BEYOND A `SHORT_SMA` VALUE OF `3` AND A `LONG_SMA` VALUE OF `110`.
 
 ---
 
@@ -74,7 +73,7 @@ In this section, you’ll tune, or adjust, the model’s input features to find 
 
 2. Tune the trading algorithm by adjusting the SMA input features. Adjust one or both of the windows for the algorithm. Rerun the notebook with the updated parameters, and record the results in your `README.md` file. Answer the following question: What impact resulted from increasing or decreasing either or both of the SMA windows?
 
-####  * `ANSWER:` RESULT VARIES. MOSTLY WORSENING OUTSIDE OF OR EXTENDING BEYOND AN OFFSET VALUE OF `3`, A `SHORT_SMA` VALUE OF `3`, AND A `LONG_SMA` VALUE OF `110`.
+> ####  * **ANSWER:** RESULT VARIES. MOSTLY WORSENING OUTSIDE OF OR EXTENDING BEYOND AN OFFSET VALUE OF `3`, A `SHORT_SMA` VALUE OF `3`, AND A `LONG_SMA` VALUE OF `110`.
 
 A Bad Tune 🎶
 > ![image](https://github.com/sfkonrad/M14_Challenge_Submission/blob/main/M14_Challenge_Submission/Documentation/Images_14/plt_SVM_Bad_Tune_Returns.png?raw=true)
